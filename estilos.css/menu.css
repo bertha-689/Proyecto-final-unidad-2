@@ -1,0 +1,37 @@
+.Main_header{
+    width: 100%;
+    height: 110px;
+    z-index: 101;
+    background: gray;
+    font-size:23px ;
+    font-family:segoe print;
+    text-align: center;
+    margin: -8px;
+}
+.iconodiscapacidad{
+    background: #000000;
+    margin:auto ;
+ text-align: center;
+    padding-top: 25px;
+}
+
+.Menu ul{
+    padding:0;
+    margin:0;
+    list-style:none;
+    display: inline-flex;
+}
+.Menu li{
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.Menu li a :hover{
+    color: red;
+    text-decoration: overline;
+}
+.Menu li a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;   
+}
+

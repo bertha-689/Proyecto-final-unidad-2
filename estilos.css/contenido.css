@@ -1,0 +1,147 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-color: black;
+}
+.bloquetitulo{
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    font-family: segoe print;
+    color: red;
+}
+.parrafotitulo{
+    letter-spacing: 1px;
+    font-family: cursive;
+    color:blue;
+    margin-top: -30;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 25px;
+}
+.iconodiscapacidad{
+    padding: 25px;
+}
+.bloquetitulo1{
+    width: 100%;
+    display: inline-block;
+    font-size: 35px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 25px;
+    color: red;
+    font-family: segoe print;
+    text-align: center;
+    background-image: url(../Imagenes/imagenes\ marmol.jpg);
+    background-attachment: fixed;
+    background-size: 50px;
+}
+.parrafotitulo1{
+    letter-spacing: 1px;
+    font-family: cursive;
+    color:blue;
+    text-align: left;
+    margin-left: 85px;
+    margin-top: 45px;
+    text-align: center;
+    font-size: 24px;
+    float: left;
+}
+.bloquetitulo2{
+    width: 100%;
+    display: inline-block;
+    font-size: 35px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top:35px;
+    text-align: center;
+    font-family: segoe print;
+    color:red;
+    background-image: url(../Imagenes/marmol\ azul.jpg);
+    background-attachment: fixed;
+    background-size: 50px;
+}
+.parrafotitulo2{
+    letter-spacing: 1px;
+    font-family: cursive;
+    color:blue;
+    margin-top:-30px;
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 35px;
+}
+.bloquetitulo3{
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    font-family: segoe print;
+    color:red;
+    background-image: url(../Imagenes/marmol\ rosado.jpg);
+    background-attachment: fixed;
+    background-size: 50px;
+}
+.parrafotitulo3{
+    letter-spacing: 1px;
+    font-family: cursive;
+    color:blue;
+    margin-top:-30px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 35px;
+}
+.bloquetitulo4{
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    font-family: segoe print;
+    color:red;
+    background-image: url(../Imagenes/deonda.jpg);
+    background-attachment: fixed;
+    background-size: 50px;
+} 
+.parrafotitulo4{
+    letter-spacing: 1px;
+    font-family: cursive;
+    color:blue;
+    margin-top:-30px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 35px;
+}
+.bloquetitulo5{
+    width: 100%;
+    display: inline-block;
+    font-size: 35px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 35px;
+    color: red;
+    font-family: segoe print;
+    text-align: center;
+    background-image: url(../Imagenes/efectomarrmol.jpg);
+    background-attachment: fixed;
+    background-size: 50px;
+}
+.parrafotitulo5{
+    letter-spacing: 1px;
+    font-family: cursive;
+    color:blue;
+    text-align: left;
+    margin-left: 85px;
+    margin-top: 45px;
+    text-align: center;
+    font-size: 24px;
+    float: left;
+}
+
+
+
+
